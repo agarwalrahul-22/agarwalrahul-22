@@ -1,6 +1,6 @@
 ### Hey👋 , I'm Rahul Agarwal🎯
 
-[![Website](https://img.shields.io/website?label=blockhackr.study&style=for-the-badge&url=https%3A%2F%2Fblockhackr.study)](https://blockhackr.study)
+<!-- [![Website](https://img.shields.io/website?label=blockhackr.study&style=for-the-badge&url=https%3A%2F%2Fblockhackr.study)](https://blockhackr.study) -->
 
 ## I'm a Software Developer, and Graphic Designer!!
 
