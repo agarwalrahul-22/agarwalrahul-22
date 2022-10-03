@@ -5,8 +5,8 @@
 ## I'm a Software Developer, and Graphic Designer!!
 
 - 🌱 I’m currently learning Web Development 🤩
-- 👯 I’m looking for Intern opportunities for Summer 2022 !!
-- 🥅 2021 Goals: Participate in hackathons and workshops 😅
+- 👯 I’m looking for Intern opportunities for Summer 2023 !!
+- 🥅 2023 Goals: Learning DSA & Participate in hackathons and workshops 😅
 - ⚡ Fun fact: I love to read books !! 📕📖
 
 ### Connect with me:
