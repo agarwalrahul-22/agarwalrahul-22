@@ -40,7 +40,7 @@
 <img align="left" alt="postman" width="26px" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" />
 <img align="left" alt="react native" width="26px" src="https://camo.githubusercontent.com/5c92eeb467fd5d2b1ef1c560e3c3c2f758a8d4e03a8136bda7b41a2d3d4a1b59/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667" />
 <img align="left" alt="redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
-<img align="left" alt="xd" width="26px" src="<img align="left" alt="redux" width="26px" src="https://cdn-icons-png.flaticon.com/512/5611/5611129.png" />
+<img align="left" alt="xd" width="26px" src="https://cdn-icons-png.flaticon.com/512/5611/5611129.png" />
 <img align="left" alt="illustrator" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" />
  
 <!-- [website]: https://blockhackr.study/ -->
