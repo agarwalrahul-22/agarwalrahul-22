@@ -41,8 +41,8 @@
 <img align="left" alt="react native" width="26px" src="https://camo.githubusercontent.com/5c92eeb467fd5d2b1ef1c560e3c3c2f758a8d4e03a8136bda7b41a2d3d4a1b59/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667" />
 <img align="left" alt="redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 <img align="left" alt="xd" width="26px" src="<img align="left" alt="redux" width="26px" src="https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667" />
-<img align="left" alt="illustrator" width="26px" src="https://cdn-icons-png.flaticon.com/512/5440/5440029.png" />
-
+<img align="left" alt="illustrator" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" />
+ 
 <!-- [website]: https://blockhackr.study/ -->
 [twitter]: https://twitter.com/Rahull20901
 [instagram]: https://www.instagram.com/rahul200901/
