@@ -2,7 +2,7 @@
 
 <!-- [![Website](https://img.shields.io/website?label=blockhackr.study&style=for-the-badge&url=https%3A%2F%2Fblockhackr.study)](https://blockhackr.study) -->
 
-## I'm a Software Developer, and Graphic Designer!!
+## I'm a Full Stack Developer, and Graphic Designer!!
 
 - 🌱 I’m currently learning Web Development 🤩
 - 👯 I’m looking for Intern opportunities for Summer 2023 !!
@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
