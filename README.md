@@ -10,7 +10,9 @@
 - ⚡ Fun fact: I love to read books !! 📕📖
 
 <br />
-
+<p align="left">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=agarwalrahul-22&theme=highcontrast&hide_border=true" alt="agarwalrahul-22" />
+<p/>
 ### Languages and Tools:
 <p align="left">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" />
