@@ -43,8 +43,7 @@
 <img align="left" alt="redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 <img align="left" alt="xd" width="26px" src="https://cdn-icons-png.flaticon.com/512/5611/5611129.png" />
 <img align="left" alt="illustrator" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" />
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=agarwalrahul-22&theme=highcontrast&hide_border=true" alt="agarwalrahul-22" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=agarwalrahul-22&theme=highcontrast&hide_border=true" alt="agarwalrahul-22" />\
 <!-- [website]: https://blockhackr.study/ -->
 [twitter]: https://twitter.com/Rahull20901
 [instagram]: https://www.instagram.com/rahul200901/
