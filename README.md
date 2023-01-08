@@ -51,3 +51,7 @@
 <a href="https://linkedin.com/in/rahulagarwal2801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gewgawrav" height="30" width="40" /></a>
 <a href="https://instagram.com/rahul200901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gewgawrav" height="30" width="40" /></a>
 </p>
+
+<p align="left">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=agarwalrahul-22&theme=highcontrast&hide_border=true" alt="agarwalrahul-22" />
+<p/>
