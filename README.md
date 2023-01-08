@@ -12,7 +12,7 @@
 <br />
 
 ### Languages and Tools:
-
+<p align="left">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -35,9 +35,9 @@
 <img align="left" alt="react native" width="26px" src="https://camo.githubusercontent.com/5c92eeb467fd5d2b1ef1c560e3c3c2f758a8d4e03a8136bda7b41a2d3d4a1b59/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667" />
 <img align="left" alt="redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 <img align="left" alt="xd" width="26px" src="https://cdn-icons-png.flaticon.com/512/5611/5611129.png" />
-<img align="left" alt="illustrator" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" /> 
+<img align="left" alt="illustrator" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" /> </p>
 
-###
+
 <p align="left">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=agarwalrahul-22&theme=highcontrast&hide_border=true" alt="agarwalrahul-22" />
 <p/>
