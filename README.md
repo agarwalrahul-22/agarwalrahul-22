@@ -39,8 +39,9 @@
 
 <br/>
 
+<p align="left">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=agarwalrahul-22&theme=highcontrast&hide_border=true" alt="agarwalrahul-22" />
-
+<p/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
