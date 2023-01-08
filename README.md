@@ -9,7 +9,10 @@
 - 🥅 2023 Goals: Learning DSA & Participate in hackathons and workshops 😅
 - ⚡ Fun fact: I love to read books !! 📕📖
 
+
 <br />
+
+
 ### Languages and Tools:
 <p align="left">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" />
@@ -35,6 +38,8 @@
 <img align="left" alt="redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 <img align="left" alt="xd" width="26px" src="https://cdn-icons-png.flaticon.com/512/5611/5611129.png" />
 <img align="left" alt="illustrator" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" /> </p>
+
+<br />
 
 
 <h3 align="left">Connect with me:</h3>
