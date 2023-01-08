@@ -40,7 +40,7 @@
 <img align="left" alt="illustrator" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" /> 
 </p>
 
-
+<hr>
 <br />
 
 
@@ -52,6 +52,6 @@
 </p>
 
 
-<!-- <p align="left">
+<p align="left">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=agarwalrahul-22&theme=highcontrast&hide_border=true" alt="agarwalrahul-22" />
-<p/> -->
+<p/>
