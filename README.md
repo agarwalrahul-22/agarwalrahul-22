@@ -44,7 +44,11 @@
 <img align="left" alt="xd" width="26px" src="https://cdn-icons-png.flaticon.com/512/5611/5611129.png" />
 <img align="left" alt="illustrator" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=agarwalrahul-22&theme=highcontrast&hide_border=true" alt="agarwalrahul-22" />
-<!-- [website]: https://blockhackr.study/ -->
-[twitter]: https://twitter.com/Rahull20901
-[instagram]: https://www.instagram.com/rahul200901/
-[linkedin]: https://linkedin.com/in/rahulagarwal2801
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Rahull20901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gewgawrav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahulagarwal2801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gewgawrav" height="30" width="40" /></a>
+<a href="https://instagram.com/rahul200901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gewgawrav" height="30" width="40" /></a>
+</p>
