@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning Web Development 🤩
 - 👯 I’m looking for Intern opportunities for Summer 2023 !!
-- 🥅 2023 Goals: Learning DSA & Participate in hackathons and workshops 😅
 - ⚡ Fun fact: I love to read books !! 📕📖
 
 
